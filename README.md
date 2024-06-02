@@ -53,7 +53,11 @@ Below are possible enhancements:
 
 ## Available Scripts
 
-In the project directory, you can run:
+Clone the project and you can run:
+
+### `npm install`
+
+Installs all the dependencies.
 
 ### `npm start`
 
