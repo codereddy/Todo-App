@@ -12,7 +12,7 @@ This project is a standalone React Microfrontend (MFE) component that encapsulat
 ## Technical Considerations
 
 - **TypeScript**: The project is written in TypeScript for type safety.
-- **Testing**: Includes unit tests to test core functionalities.
+- **Testing**: Includes unit tests to test core functionalities ( For simplicity tests are inside App.test.tsx).
 - **Code Quality**: Follows best practices for clean, readable, and well-structured code.
 - **State Management**: Utilizes React’s built-in state management.
 
